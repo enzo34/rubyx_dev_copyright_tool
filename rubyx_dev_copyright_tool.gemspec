@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Some view methods for application}
   spec.description   = %q{Generate HTML data for Rails Applications}
-  spec.homepage      = "www.rubyxdev.fr"
+  spec.homepage      = "https://github.com/enzo34/rubyx_dev_copyright_tool"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
